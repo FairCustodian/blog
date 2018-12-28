@@ -2,34 +2,57 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
+        <h3 style="color: #010101"> Address </h3>
+        <address>
+            Fair Custodian Ltd</br>
+            Office 0.09</br>
+            PROTO: The New Emerging Technology Centre</br>
+            Abott's Hill</br>
+            Gateshead</br>
+            NE8 3DF</br>
+            Company Number: 11609558</br>
+        </address>
       </div>
 
       <div class="footer-col footer-col-2">
+        <h3 style="color: #010101"> Social </h3>
         <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
 
           {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
+          <a href="https://twitter.com/{{ site.twitter_username }}">
+            <i class="fab fa-twitter fa-2x" style="color: #010101;"></i>
+          </a>
           {% endif %}
+
+          {% if site.subreddit %}
+          <a href="https://reddit.com/r/{{ site.subreddit }}">
+            <i class="fab fa-reddit fa-2x" style="color: #010101;"></i>
+          </a>
+          {% endif %}
+
+          {% if site.facebook %}
+          <a href="https://facebook.com/{{ site.facebook }}">
+            <i class="fab fa-facebook fa-2x" style="color: #010101;"></i>
+          </a>
+          {% endif %}
+
+          {% if site.telegram %}
+          <a href="https://t.me/{{ site.telegram }}">
+            <i class="fab fa-telegram fa-2x" style="color: #010101;"></i>
+          </a>
+          {% endif %}
+
         </ul>
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
+        <h3 style="color: #010101"> Support </h3>
+        <ul class="social-media-list">
+          <li> Privacy Policy </li>
+          <li> Terms </li>
+        </ul>
       </div>
     </div>
 
