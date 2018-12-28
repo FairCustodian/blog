@@ -1,4 +1,4 @@
-![Build Status](https://gitlab.com/pages/jekyll/badges/master/build.svg)
+[![pipeline status](https://gitlab.com/FairCustodian/blog/badges/master/pipeline.svg)](https://gitlab.com/FairCustodian/blog/commits/master)
 ![Jekyll Version](https://img.shields.io/gem/v/jekyll.svg)
 
 ---
