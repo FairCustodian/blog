@@ -49,7 +49,7 @@ Go to **Settings (⚙)** > **Pipelines** and click the **"Enable shared Runners"
 1. Push your repository and changes to GitLab.
 
 
-`bundle exec jekyll build -d public`
+GITHUB: `bundle exec jekyll build -d docs`
 
 
 ## GitLab CI
