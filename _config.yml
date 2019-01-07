@@ -11,8 +11,8 @@ email: hello@faircustodian.com
 description: > # this means to ignore newlines until "baseurl:"
   Fair Custodian allows users to manage how their personal data
   is accessed and used by companies.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://blog.faircustodian.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+# url: "https://blog.faircustodian.com" # the base hostname & protocol for your site
 twitter_username: FairCustodianUK
 subreddit: FairCustodian
 facebook: faircustodian
