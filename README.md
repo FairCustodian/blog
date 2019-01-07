@@ -48,6 +48,10 @@ Go to **Settings (⚙)** > **Pipelines** and click the **"Enable shared Runners"
 1. Add [this `.gitlab-ci.yml`](.gitlab-ci.yml) to the root of your project.
 1. Push your repository and changes to GitLab.
 
+
+`bundle exec jekyll build -d public`
+
+
 ## GitLab CI
 
 This project's static Pages are built by [GitLab CI][ci], following the steps
