@@ -4,10 +4,10 @@
     <title>Fair Custodian Blog</title>
     <description>Fair Custodian allows users to manage how their personal data is accessed and used by companies.
 </description>
-    <link>///</link>
-    <atom:link href="///feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Jan 2019 11:31:47 +0000</pubDate>
-    <lastBuildDate>Mon, 07 Jan 2019 11:31:47 +0000</lastBuildDate>
+    <link>//</link>
+    <atom:link href="//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 07 Jan 2019 11:34:21 +0000</pubDate>
+    <lastBuildDate>Mon, 07 Jan 2019 11:34:21 +0000</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
       <item>
@@ -15,8 +15,8 @@
         <description>&lt;p&gt;Hello, world!&lt;/p&gt;
 </description>
         <pubDate>Fri, 28 Dec 2018 14:46:44 +0000</pubDate>
-        <link>///hello/2018/12/28/hello-world.html</link>
-        <guid isPermaLink="true">///hello/2018/12/28/hello-world.html</guid>
+        <link>//hello/2018/12/28/hello-world.html</link>
+        <guid isPermaLink="true">//hello/2018/12/28/hello-world.html</guid>
         
         
         <category>hello</category>
