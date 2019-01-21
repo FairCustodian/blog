@@ -2,6 +2,7 @@
 layout: post
 title:  "Hello, world!"
 date:   2019-01-01 10:00:00 -0000
+image: "https://s3-eu-west-1.amazonaws.com/fc-app-assets/FC-Image_01_1x1.jpg"
 ---
 For those of you who don’t know us, the Fair Custodian team consists of four people who share a passion for data. We are tired of how personal data is processed and shared without the person’s explicit consent. We feel we possess the skills and experience to be able to redefine how personal data is handled during everyday interactions online.
 
