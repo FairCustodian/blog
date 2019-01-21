@@ -6,20 +6,42 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 Jan 2019 19:33:38 +0000</pubDate>
-    <lastBuildDate>Tue, 08 Jan 2019 19:33:38 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Jan 2019 16:29:57 +0000</pubDate>
+    <lastBuildDate>Mon, 21 Jan 2019 16:29:57 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Hello, world!</title>
-        <description>&lt;p&gt;Hello, world!&lt;/p&gt;
+        <description>&lt;p&gt;For those of you who don’t know us, the Fair Custodian team consists of four people who share a passion for data. We are tired of how personal data is processed and shared without the person’s explicit consent. We feel we possess the skills and experience to be able to redefine how personal data is handled during everyday interactions online.&lt;/p&gt;
+
+&lt;p&gt;We recently published a survey about data privacy (&lt;a href=&quot;https://goo.gl/forms/Z68yxX98ZK95TY1R2&quot;&gt;this one&lt;/a&gt; to be precise). We’ve laid out the results below for you to explore and we’ve now also created another one, which we hope you’ll fill out too (there’s a link at the bottom of this post)! Complete it and you can help us deplete our bank account for some good causes.&lt;/p&gt;
+
+&lt;center&gt;
+    &lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/fc-app-assets/stats.jpg&quot; align=&quot;middle&quot; alt=&quot;70% of people are concerned about their privacy.&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;Our first survey was the initial step towards creating an ecosystem that will allow everyone to safely manage access to and the sharing of their personal data. The next step we’re taking is to launch a beta of our first product.&lt;/p&gt;
+
+&lt;p&gt;We support the work of a large range of privacy advocacy organisations but we also understand that the wheels of industry must keep turning.  People will always be making cool, new stuff and other people will always want to buy it. Connecting those two groups of people requires the transfer of personal information and we want to make sure that happens in the most fair, transparent, and secure way possible.&lt;/p&gt;
+
+&lt;p&gt;We’ve planned a long term roadmap of technologies and services; which include machine learning backed intelligent email management for individuals, single sign-on authentication for ecommerce platforms, and the creation of a marketplace where people can share data and directly benefit when it’s sold.&lt;/p&gt;
+
+&lt;p&gt;That said, we do appreciate the need to start small and we’d like you to help us shape our first product.&lt;/p&gt;
+
+&lt;p&gt;This product, enables you to register for 3rd party sites and services using a disposable, private email address instead of sharing your personal one. You can create as many of these disposable email addresses as you wish. Our platform will receive any messages sent to the disposable accounts and you can access them via our website without them clogging up your personal inbox.&lt;/p&gt;
+
+&lt;p&gt;You can sign up for the beta &lt;a href=&quot;https://beta.faircustodian.com&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We would also really appreciate if you would complete our &lt;a href=&quot;http://bit.ly/fc-data-management&quot;&gt;latest survey&lt;/a&gt; so that we can make this product more useful for you.&lt;/p&gt;
+
+&lt;p&gt;Cheers,&lt;/p&gt;
+
+&lt;p&gt;Jake, Ben, Saul, and Jay&lt;/p&gt;
 </description>
-        <pubDate>Fri, 28 Dec 2018 14:46:44 +0000</pubDate>
-        <link>/hello/2018/12/28/hello-world.html</link>
-        <guid isPermaLink="true">/hello/2018/12/28/hello-world.html</guid>
+        <pubDate>Tue, 01 Jan 2019 10:00:00 +0000</pubDate>
+        <link>/2019/01/01/hello-world.html</link>
+        <guid isPermaLink="true">/2019/01/01/hello-world.html</guid>
         
-        
-        <category>hello</category>
         
       </item>
     
