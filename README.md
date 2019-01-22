@@ -3,6 +3,29 @@
 
 ---
 
+# Fair Custodian Specific
+
+## Creating a post
+
+1. Create a markdown file in the `_posts` folder named `YYYY-MM-DD-url-title.md`. This will create the URL `blog.faircustodian.com/2019/01/01/url-title.html`. This should not the whole title, just something short and unique.
+2. The file **must** start with a header containg at the very least `layout: post` , `title: The full title of the post` and `date: YYYY-MM-DD HH:MM:SS -0000`.
+3. Additionally, you can add `excerpt: "This will show when posted on socail media < 160 chars` (if not provided, it defaults to the first 160 chars of the post) and `image: A link to an image that will be shown when posted on social media` (if not provided, it defaults to the 1:1 image we use for the app).
+4. You need to build the site using jekyll before committing and pushing to github by running `bundle exec jekyll build -d docs` from the root directory.
+
+Example:
+
+```
+---
+layout: post
+title:  "Hello, world!"
+date:   2019-01-01 10:00:00 -0000
+image: "https://s3-eu-west-1.amazonaws.com/fc-app-assets/FC-Image_01_1x1.jpg"
+excerpt: "A little intro to Fair Custodian and the team behind it."
+---
+```
+
+---
+
 Example [Jekyll] website using GitLab Pages.  View it live at https://pages.gitlab.io/jekyll
 
 [Learn more about GitLab Pages](https://pages.gitlab.io) or read the the [official GitLab Pages documentation](https://docs.gitlab.com/ce/user/project/pages/).
