@@ -3,13 +3,16 @@ layout: post
 title:  "Hello, world!"
 date:   2019-01-01 10:00:00 -0000
 ---
+
+<div>
+    <center>
+        <img class="pr-3" src="https://s3-eu-west-1.amazonaws.com/fc-app-assets/stats.jpg" align="left" alt="70% of people are concerned about their privacy." height="400">
+    </center>
+</div>
+
 For those of you who don’t know us, the Fair Custodian team consists of four people who share a passion for data. We are tired of how personal data is processed and shared without the person’s explicit consent. We feel we possess the skills and experience to be able to redefine how personal data is handled during everyday interactions online.
 
 We recently published a survey about data privacy ([this one](https://goo.gl/forms/Z68yxX98ZK95TY1R2) to be precise). We’ve laid out the results below for you to explore and we’ve now also created another one, which we hope you’ll fill out too (there’s a link at the bottom of this post)! Complete it and you can help us deplete our bank account for some good causes.
-
-<center>
-    <img src="https://s3-eu-west-1.amazonaws.com/fc-app-assets/stats.jpg" align="middle" alt="70% of people are concerned about their privacy.">
-</center>
 
 Our first survey was the initial step towards creating an ecosystem that will allow everyone to safely manage access to and the sharing of their personal data. The next step we’re taking is to launch a beta of our first product.
 
