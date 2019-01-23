@@ -6,8 +6,8 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 23 Jan 2019 00:28:01 +0000</pubDate>
-    <lastBuildDate>Wed, 23 Jan 2019 00:28:01 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Jan 2019 17:33:20 +0000</pubDate>
+    <lastBuildDate>Wed, 23 Jan 2019 17:33:20 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -16,9 +16,9 @@
 
 &lt;p&gt;We recently published a survey about data privacy (&lt;a href=&quot;https://goo.gl/forms/Z68yxX98ZK95TY1R2&quot;&gt;this one&lt;/a&gt; to be precise). We’ve laid out the results below for you to explore and we’ve now also created another one, which we hope you’ll fill out too (there’s a link at the bottom of this post)! Complete it and you can help us deplete our bank account for some good causes.&lt;/p&gt;
 
-&lt;center&gt;
-    &lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/fc-app-assets/stats.jpg&quot; align=&quot;middle&quot; alt=&quot;70% of people are concerned about their privacy.&quot; /&gt;
-&lt;/center&gt;
+&lt;div class=&quot;float-left m-5&quot;&gt;
+    &lt;img class=&quot;img-responsive&quot; src=&quot;https://s3-eu-west-1.amazonaws.com/fc-app-assets/stats.jpg&quot; alt=&quot;70% of people are concerned about their privacy.&quot; height=&quot;450&quot; /&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Our first survey was the initial step towards creating an ecosystem that will allow everyone to safely manage access to and the sharing of their personal data. The next step we’re taking is to launch a beta of our first product.&lt;/p&gt;
 
