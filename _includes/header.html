@@ -9,13 +9,12 @@
       </button>
       <div class="collapse navbar-collapse" id="navbar-content">
         <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
-          {% for my_page in site.pages %}
-            {% if my_page.title %}
-              <li class="nav-item mx-3 navbar_pre_sign_in">
-                <a class="nav-link my-3" href=""{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-              </li>
-            {% endif %}
-          {% endfor %}
+          <li class='nav-item mx-3 navbar_pre_sign_in h4'>
+            <a class="nav-link my-3" href="https://beta.faircustodian.com/users/sign_up">Sign up</a>
+          </li>
+          <li class='nav-item mx-3 navbar_pre_sign_in h4'>
+            <a class="nav-link my-3" href="https://beta.faircustodian.com/users/sign_in">Sign in</a>
+          </li>
         </ul>
       </div>
     </nav>
