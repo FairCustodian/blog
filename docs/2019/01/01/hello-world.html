@@ -20,6 +20,10 @@
   <link rel="canonical" href="/2019/01/01/hello-world.html">
 
   <link rel="alternate" type="application/rss+xml" title="Fair Custodian Blog" href="/feed.xml">
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha256-WHwIASWxNdKakx7TceUP/BqWQYMcEIfeLNdFMoFfRWA=" crossorigin="anonymous"></script>
+  <script src="https://s3-eu-west-1.amazonaws.com/fc-app-assets/toolkit.min.js"></script>
 </head>
 
 
@@ -27,24 +31,26 @@
 
     <header class="site-header">
   <div class="wrapper">
-    <nav class="navbar navbar-expand-md navbar-light bg-light" id="fc-navbar">
-      <a class="navbar-brand" href="/">
-        <img height="30" src="/images/fc-logo-navbar.png">
-      </a>
-      <button class="navbar-toggler" data-target="#navbar-content" data-toggle="collapse" type="button">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbar-content">
-        <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
-          <li class='nav-item mx-3 navbar_pre_sign_in h4'>
-            <a class="nav-link my-3" href="https://beta.faircustodian.com/users/sign_up">Sign up</a>
-          </li>
-          <li class='nav-item mx-3 navbar_pre_sign_in h4'>
-            <a class="nav-link my-3" href="https://beta.faircustodian.com/users/sign_in">Sign in</a>
-          </li>
-        </ul>
-      </div>
-    </nav>
+    <div class="container">
+      <nav class="navbar navbar-expand-md navbar-light" id="fc-navbar">
+        <a class="navbar-brand" href="/">
+          <img height="30" src="/images/fc-logo-navbar.png">
+        </a>
+        <button class="navbar-toggler" data-target="#navbar-content" data-toggle="collapse" type="button">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar-content">
+          <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
+            <li class='nav-item mx-3 navbar_pre_sign_in h4'>
+              <a class="nav-link my-3" href="https://beta.faircustodian.com/users/sign_up">Sign up</a>
+            </li>
+            <li class='nav-item mx-3 navbar_pre_sign_in h4'>
+              <a class="nav-link my-3" href="https://beta.faircustodian.com/users/sign_in">Sign in</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </div>
   </div>
 </header>
 
