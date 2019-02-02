@@ -30,3 +30,7 @@ We would also really appreciate if you would complete our [latest survey](http:/
 Cheers,
 
 Jake, Ben, Saul, and Jay
+
+<div>
+    <img class="img-responsive" src="https://s3-eu-west-1.amazonaws.com/fc-app-assets/1*Q2ff7y9F5dnIdIjSk6Kh-A.png" alt="The Fair Custodian team: Saul, Ben, Jay, and Jake" height="400">
+</div>
